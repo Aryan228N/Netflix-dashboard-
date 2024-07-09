@@ -8,3 +8,6 @@ Utilized Tableau public in order to create a dashboard containing information re
 ### 3) Map visulaization to know the density distribution of all the titles in different countries of the world.
 ### 4) 2 filters/slicers in order to help us know the description of a particular title along with its duration.
 
+
+
+![Netflix](https://github.com/Aryan228N/Netflix-dashboard-/assets/174264630/6d5f761d-5423-4233-a915-e55d5dbbbcf9)
